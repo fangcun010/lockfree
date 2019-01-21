@@ -6,10 +6,10 @@ lock_free_queue.hpp
 
 Compiled under the mingw64
 
-********You need to implement your own memory manager********
+You need to implement your own memory manager
 
 
-********Or you will get memory leak**************************
+Or you will get memory leak
 
 无锁队列ming64实现，使用时需要定义自己的内存管理器，构造一个free list。
 
