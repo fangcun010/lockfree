@@ -1,9 +1,11 @@
 # lockfree
+
 lock-free library
 
 lock_free_queue.hpp
 
 Compiled under the mingw64
+
 ********You need to implement your own memory manager********
 
 
